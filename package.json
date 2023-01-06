@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Bryanmiessler.github.io/workshop2-lazy.git",
+  "homepage": "https://bryanmiessler.github.io/workshop2-lazy.git/",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
